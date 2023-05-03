@@ -4,7 +4,7 @@ Data pre-processing is a data mining technique that involves transforming raw da
 
 ## Binder Link
 
-Code along with the workshop by clicking this Binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/Data-Preprocessing_workshop/HEAD)
+Code along with the workshop by clicking this Binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/Data-Preprocessing/main?labpath=Data-Preprocessing%2FData-preprocessing-code-20210128%20.ipynb)
 
 ## Further Information
 
