@@ -3,9 +3,8 @@
 Data pre-processing is a data mining technique that involves transforming raw data into an understandable format. With the increasing amount of data available for research and analysis, real-world data is often incomplete or inconsistent and thus not ready to be used directly. Multiple spreadsheets, missing values, typos, numbers shown as text, unnecessary columns… Data without adequate preparation will deliver poor or misleading findings. This is exemplified by the pithy data scientist phrase ‘GIGO’, which stands for ‘Garbage In Garbage Out’.
 
 ## Binder Link
-
-The Binder Link is currently unavailable but we hope to get it back up and working again soon. In the meantime, we recommend downloading/cloning the repo to code along. 
-
+Click this link to launch a virtual environment in your browser. This allows you to code along without downloading or installing anything on your computer! However, the virtual environment may not work well if lots of people are trying to use it at the same time. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/Data-Preprocessing/main)
 
 ## Further Information
 
